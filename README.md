@@ -16,4 +16,4 @@ This script helps improve system performance by cleaning temporary files, flushi
 This script improves performance but does not replace hardware upgrades.
 
 ## Author
-Archit
+Archit Guleri
